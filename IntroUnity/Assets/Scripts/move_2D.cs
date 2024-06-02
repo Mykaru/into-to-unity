@@ -5,9 +5,9 @@ using UnityEngine;
 
 public class move_2D : MonoBehaviour 
 {
-    public float acceleration = 4.0f;
-    public float jumpforce = 5.0f;
-    public float maxSpeed = 5.0f; // Maximum speed for the character
+    public float acceleration = 15.0f;
+    public float jumpforce = 8.0f;
+    public float maxSpeed = 6.0f; // Maximum speed for the character
     private bool isJumping = false;
     private Rigidbody2D rb = null;
 

@@ -13,7 +13,7 @@ TagManager:
   - UI
   - Player
   - Ground
-  - 
+  - Death
   - 
   - 
   - 
@@ -46,4 +46,7 @@ TagManager:
     locked: 0
   - name: foreground
     uniqueID: 3788286887
+    locked: 0
+  - name: Death
+    uniqueID: 2443261235
     locked: 0
